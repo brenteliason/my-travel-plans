@@ -51,10 +51,10 @@ h2 {
     text-shadow: 0 0 5px #01579b;
 }
 
-#al, #sc {
+.first {
     background-color: #03a9f4;
 }
 
-#nh, #wi {
+.second {
     background-color: #d32f2f;
 }
